@@ -1,4 +1,4 @@
-# Moshe Avni's DotFiles
+# Nir Avni's DotFiles
 
 (also, how to bootstrap a brand new Mac laptop)
 
