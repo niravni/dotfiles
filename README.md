@@ -23,7 +23,7 @@
 
    ```bash
    [[ -d ~/Repos ]] || mkdir ~/Repos
-   cd ~/Repos && git clone git@github.com:mosheavni/dotfiles.git && cd dotfiles
+   cd ~/Repos && git clone git@github.com:niravni/dotfiles.git && cd dotfiles
    ```
 
 3. Install brew dependencies (generated with `brew bundle dump`)
